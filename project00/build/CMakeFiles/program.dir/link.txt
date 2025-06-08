@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/program.dir/main.cpp.o CMakeFiles/program.dir/phone00.cpp.o -o program 

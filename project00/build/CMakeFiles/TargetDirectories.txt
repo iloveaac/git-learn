@@ -1,0 +1,3 @@
+/home/caozhen/vscode/code/project00/build/CMakeFiles/program.dir
+/home/caozhen/vscode/code/project00/build/CMakeFiles/edit_cache.dir
+/home/caozhen/vscode/code/project00/build/CMakeFiles/rebuild_cache.dir
